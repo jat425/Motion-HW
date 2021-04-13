@@ -423,6 +423,7 @@ textarea {
   width: 200px;
   background-color: #e607ae;
   border-radius: 100%;
-  margin-left: 300px;
-  margin-top: 200px;
+  position: fixed;
+  left: 45%;
+  top: 20%;
 }
